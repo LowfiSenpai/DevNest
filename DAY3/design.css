@@ -1,0 +1,60 @@
+body{
+    border: 5px solid grey;
+    height:660px;
+    width:800px;
+    margin: 60px 200px 60px 200px;
+    padding: 30px 50px 30px 50px;
+    }
+    
+    body h1{
+    font-family:"Georgia",serif;
+    }
+    
+    .phonelogo{
+    width: 15px;
+    height:15px;
+    margin-left:100px;
+    }
+    
+    .location{
+    width: 15px;
+    height:15px;
+    margin-left:100px;
+    }
+    
+    .linkedin{
+    width:20px;
+    height:20px;
+    margin-left:100px;
+    }
+    
+    .div0{
+    font-family:"Georgia",serif;
+    }
+    
+    .div1{
+    font-family:"Georgia",serif;
+    }
+    
+    .div2{
+    font-family:"Georgia",serif;
+    }
+    
+    .div3{
+    font-family:"Georgia",serif;
+    padding-left:460px;
+    margin-top:-575px;
+    
+    }
+    
+    .div4{
+    font-family:"Georgia",serif;
+    padding-left:460px;
+    }
+    
+    .vl {
+    border-left: 2px solid grey;
+    height: 550px;
+    margin-left:400px;
+    margin-top:-220px;
+    }
