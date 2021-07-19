@@ -1,0 +1,46 @@
+body {
+    background: #c31432;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #240b36, #c31432);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #240b36, #c31432); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+
+.clock {
+    width: 500px;
+    height: 500px;
+    border-radius: 300px;
+    border: 50px solid ;
+    margin-top: 15px;
+    margin-left: 380px;
+    background-color: whitesmoke;
+    box-shadow: 0 0 5px 5px grey, inset 0 0 10px 2px grey;
+}
+
+.hour {
+    position: absolute;
+    top: 50%;
+    right: 50%;
+    height: 150px;
+    width: 3px;
+    background-color: black;
+}
+
+.minute {
+    position: absolute;
+    top: 45.2%;
+    right: 55.2%;
+    height: 200px;
+    width: 3px;
+    background-color: black;
+    transform:rotate(45deg);
+}
+
+.second {
+    position: absolute;
+    top: 41%;
+    right: 42.8%;
+    height: 230px;
+    width: 3px;
+    background-color: black;
+    transform:rotate(120deg);
+}
