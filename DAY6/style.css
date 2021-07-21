@@ -1,0 +1,22 @@
+body{
+    background: blue;
+    
+}
+.container{
+    box-shadow: 5px 10px 30px black;
+    background-color: crimson;
+    border-radius: 20px;
+    padding: 10px;
+    margin: 10px;
+}
+.heading{
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: white;
+    text-decoration-line: underline;
+}
+
+.content {
+    background-color: white;
+    color: darkgreen;
+}
